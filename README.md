@@ -4,10 +4,6 @@
 <h3 align="center">I write great code... just sometimes it doesn't work 🥹</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-dipu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dipu" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Developer+%7C+Designer+%7C+Editor;Shader+Explorer+%7C+UI+Enthusiast;Always+building+something+fun!&center=true&width=500&height=30&color=FBBF24&vCenter=true&size=18" />
 </p>
 
